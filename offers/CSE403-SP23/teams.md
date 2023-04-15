@@ -51,6 +51,16 @@ DormWiki is a website designed to inform prospective/incoming students about var
 
 
 ## DubSpot
+DubSpot is a revolutionary schedule builder application that enables students to discover courses and develop their own schedules quickly and easily. Through DubSpot, students will be able to contribute to course rankings to give insightful information for students looking to design their schedules.
+Our code can be found on [GitHub](https://github.com/Navkiran23/DubSpot)
+
+### Who we are
+
+  - [Navkiran Nijjar](https://github.com/Navkiran23)
+  - [Denny Wu](https://github.com/dennywu84)
+  - [Diane Du](https://github.com/diane-du)
+  - [Darren Huang](https://github.com/bytehut)
+
 
 ## DuoCode
 
